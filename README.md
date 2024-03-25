@@ -1,7 +1,6 @@
 [![GitHub Banner](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)](https://github.com/Vuonggba1403)
 <h1 align="center">Hi 👋, I'm Vuongba1403</h1>
 
-<img src="https://i.pinimg.com/originals/7f/10/f3/7f10f39e54aad282f4d3d35a7537b4d3.gif" alt="..." width="250" />
 - 📫 How to reach me **vuongba14032002@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
