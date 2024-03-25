@@ -3,8 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vuonggba1403&label=Profile%20views&color=0e75b6&style=flat" alt="vuonggba1403" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vuonggba1403" alt="vuonggba1403" /></a> </p>
-
+<img src="[https://..](https://i.pinimg.com/originals/7f/10/f3/7f10f39e54aad282f4d3d35a7537b4d3.gif)." alt="..." width="250" />
 - 📫 How to reach me **vuongba14032002@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
