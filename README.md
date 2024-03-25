@@ -1,6 +1,5 @@
-<h1 align="center">Hi 👋, I'm Vuong</h1>
-<h3 align="center">Nguoi Viet Goc Quang Binh</h3>
-
+<h1 align="center">Hi 👋, I'm Vuongba1403</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hammadx02&label=Profile%20views&color=0e75b6&style=flat" alt="vuonggba1403" /> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vuonggba1403&label=Profile%20views&color=0e75b6&style=flat" alt="vuonggba1403" /> </p>
 
 <img src="https://i.pinimg.com/originals/7f/10/f3/7f10f39e54aad282f4d3d35a7537b4d3.gif" alt="..." width="250" />
